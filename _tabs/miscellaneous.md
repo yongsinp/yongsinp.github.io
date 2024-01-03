@@ -16,5 +16,6 @@ I am a member of the organizing committee of Seoul Queer Culture Festival (Seoul
  - [Reflections](https://www.imdb.com/title/tt26879938/) (Kane Lee Kwik)
 
 ![One orange tabby cat, and one tuxedo cat looking at the camera.](/assets/img/IMG_1314.png)
+_These are my cats Tigger and Roo_
 <!-- ![](/assets/img/IMG_2088.png) -->
 <!-- ![](/assets/img/IMG_6980.png) -->
