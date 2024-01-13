@@ -8,7 +8,7 @@ order: 4
 
 **For killing time I do**: ...Laundry. But if there is nothing to wash, I read books, watch movies, or listen to music.
 
-**Hobbies**: I like to take 📸, promote the use of sunscreen, or go searching for a new cologne.
+**Hobbies**: I like to take 📸, promote the use of sunscreen, or go searching for a new [cologne](https://yongsinp.notion.site/fc39360585af4ac0b59061f6f169c117?v=82dd40dff5fd48ce863fb2c5e843c844&pvs=4).
 
 I am a member of the organizing committee of Seoul Queer Culture Festival (Seoul Pride) and Korea Queer Film Festival. Some of the movies I translated and revised:
  - [i get so sad sometimes](https://www.imdb.com/title/tt18816128/) (Trishtan Perez)
