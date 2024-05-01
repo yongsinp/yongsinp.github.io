@@ -14,6 +14,8 @@ I am a member of the organizing committee of Seoul Queer Culture Festival (Seoul
  - [i get so sad sometimes](https://www.imdb.com/title/tt18816128/) (Trishtan Perez)
  - [The Note](https://www.imdb.com/title/tt21480270/) (Jen Nee Lim)
  - [Reflections](https://www.imdb.com/title/tt26879938/) (Kane Lee Kwik)
+ - [After School](https://www.imdb.com/title/tt27671363/) (Blue Cheng-Lung Lan)
+ - [Friend of a Friend] (Simon Gualtieri)
 
 ![One orange tabby cat, and one tuxedo cat looking at the camera.](/assets/img/IMG_1314.png)
 _These are my cats Tigger and Roo_
