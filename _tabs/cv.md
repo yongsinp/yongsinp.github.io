@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Résumé: [pdf](/assets/files/Résumé.pdf)
+Résumé: [pdf](/assets/files/Resume.pdf)
 
 Probably the most updated version of my CV: [pdf](/assets/files/CV.pdf)
 
