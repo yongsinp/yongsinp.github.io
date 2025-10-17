@@ -8,4 +8,4 @@ Résumé: [pdf](/assets/files/Resume.pdf)
 
 <!-- Probably the most updated version of my CV: [pdf](/assets/files/CV.pdf) -->
 
-My LinkedIn profile: [link](https://www.linkedin.com/in/yongsin-park-45962b136/)
+My LinkedIn profile: [link](https://www.linkedin.com/in/yongsinp/)
