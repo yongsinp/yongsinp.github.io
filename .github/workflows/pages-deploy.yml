@@ -28,7 +28,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6.0.3
         with:
           fetch-depth: 0
           # submodules: true
@@ -40,7 +40,7 @@ jobs:
         uses: actions/configure-pages@v6.0.0
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.306.0
+        uses: ruby/setup-ruby@v1.310.0
         with:
           ruby-version: 3.2
           bundler-cache: true
